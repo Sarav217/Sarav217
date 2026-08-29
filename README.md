@@ -146,9 +146,11 @@ Areas of interest include:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sarav217&theme=tokyonight&hide_border=true" height="180"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Sarav217&theme=tokyonight&hide_border=true"
+    alt="Sarav217 GitHub Streak"
+  />
 </p>
-
 ---
 
 ## 🐍 Contribution Graph
