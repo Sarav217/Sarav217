@@ -23,11 +23,11 @@
 
   <img
     src="./assets/minion-wave.gif"
-    width="120"
+    width="350"
     alt="Minion waving hello"
   />
 
-  <br>
+  <br><br>
 
   <strong>👋 Bello! Doing hi! 😄</strong>
 
