@@ -17,23 +17,6 @@
 
 ---
 
-<!-- 👋 MINION INTRO -->
-
-<p align="center">
-
-  <img
-    src="./assets/minion-wave.gif"
-    width="350"
-    alt="Minion waving hello"
-  />
-
-  <br><br>
-
-  <strong>👋 Bello! Doing hi! 😄</strong>
-
-</p>
-
----
 
 ## 👨‍💻 About Me
 
