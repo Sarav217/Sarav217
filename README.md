@@ -125,17 +125,6 @@ Areas of interest include:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="Sarav217 GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Sarav217 Top Languages" />
-</p>
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
