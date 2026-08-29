@@ -17,6 +17,24 @@
 
 ---
 
+<!-- 👋 MINION INTRO -->
+
+<p align="center">
+
+  <img
+    src="./assets/minion-wave.gif"
+    width="120"
+    alt="Minion waving hello"
+  />
+
+  <br>
+
+  <strong>👋 Bello! Doing hi! 😄</strong>
+
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 🎓 I'm a student passionate about **software development, databases, AI, and machine learning**.
